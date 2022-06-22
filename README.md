@@ -14,6 +14,6 @@ Que veremos?
 
 *Ejemplo del Token ERC1155 con un Smart Contract en el entorno de desarrollo de Remix.
 
-Youtube:
+Youtube: https://youtu.be/KWRhOQmC_C8
 
 ![erc1155 youtube](https://user-images.githubusercontent.com/101588200/174886720-3f596258-05fe-45e4-abb1-4f483c238c74.png)
